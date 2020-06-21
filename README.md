@@ -2,7 +2,6 @@
  Unity Solo Project Chess base board game for MOBILE
  Rule Version 1.0.2 Edition.
  
- 룰 개편
 
 개편 예정 - 유저 커스텀 카드덱
 ------------------
