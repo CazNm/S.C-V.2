@@ -1,8 +1,7 @@
 # S.C-V.2
- Unity Solo Project Chess base board game for MOBILE
+ Unity Team Project Chess base board game for MOBILE
  
- -----------------
- # Rule Version 1.0.2 Edition.
+ # Rule Version 1.0.2
  
 
 개편 예정 - 유저 커스텀 카드덱
